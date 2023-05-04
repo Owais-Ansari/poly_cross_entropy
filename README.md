@@ -1,6 +1,8 @@
 # poly_cross_entropy
 
-***Usage****
+Poly cross entropy for segmemtation
+
+***Usage***
 ```shell script
 from loss import poly_cross_entropy1
 
