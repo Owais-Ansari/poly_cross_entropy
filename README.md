@@ -2,6 +2,10 @@
 
 Poly cross entropy for segmemtation
 
+
+***reference***
+https://arxiv.org/pdf/2204.12511.pdf
+
 ***Usage***
 ```shell script
 from loss import poly_cross_entropy1
