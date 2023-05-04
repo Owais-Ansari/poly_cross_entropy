@@ -5,7 +5,7 @@ Poly cross entropy for segmemtation
 
 ***reference***
 
-[[2022] POLYLOSS: A POLYNOMIAL EXPANSION PERSPECTIVE OF CLASSIFICATION LOSS FUNCTIONS [ICLR 2022]](https://arxiv.org/pdf/2204.12511.pdf)
+[[2022] POLYLOSS: A POLYNOMIAL EXPANSION PERSPECTIVE OF CLASSIFICATION LOSS FUNCTIONS [ICLR]](https://arxiv.org/pdf/2204.12511.pdf)
 
 
 ***Usage***
